@@ -1,5 +1,5 @@
 # GrandView
-
+[![](https://jitpack.io/v/grandsource/GrandView.svg)](https://jitpack.io/#grandsource/GrandView)
 
 Add it to your build.gradle with:
 ```gradle
