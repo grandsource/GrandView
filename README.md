@@ -13,7 +13,7 @@ and:
 
 ```gradle
 dependencies {
-    implementation 'com.github.grandsource:GrandView:1.0'
+    implementation 'com.github.grandsource:GrandView:1.0.0'
 }
 ```
 
