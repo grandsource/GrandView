@@ -16,5 +16,8 @@ dependencies {
     implementation 'com.github.grandsource:GrandView:1.0.0'
 }
 ```
+Using this view you can create Android Application like One Note or Evernote. 
+
+Full documentation comming soon. 
 
 #Thank you
